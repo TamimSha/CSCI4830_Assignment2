@@ -6,3 +6,9 @@ button { width: 70px; height: 40px; background: green; color: white; margin: 10p
 
 /* make the button with ID "delete" red */
 delete { background: red; }
+
+#gesture_area{width: 300px; height: 400px; background: grey; margin: 10px}
+
+input{margin: 10px}
+
+h1{margin: 10px}
